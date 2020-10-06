@@ -1,4 +1,4 @@
-# Creating a Binary Classification Model to Predict Nonvoting
+# Creating a Binary Classifier to Predict Voter Participation in Presidential Elections
 
 ## Introduction 
 The aim of this project is to build a binary classification model for predicting whether an eligible voter did not vote in the 2016 presidential election, using  a selection of data from the [2018 General Social Survey](https://gss.norc.org/). 
