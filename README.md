@@ -32,4 +32,4 @@ Respondents' participation in the 2012 election was the strongest predictor of v
 With these observations in mind, organizations seeking to increase voter turnout by engaging potential non-voters should prioritize those who haven't voted in past elections, young voters, and political moderates.
 
 ## Limitations and Next Steps
-Many features were transformed and or excluded from the original dataset to foster a simpler and more legible encoding process. Future analysis should attempt to find or collect more complete data with similar variables. Additionally, models can be further optimized through exhaustive gridsearches.
+Many features were transformed and or excluded from the original dataset to foster a simpler and more legible encoding process. Future analysis should attempt to find or collect more complete data with similar variables. Additionally, models can be further optimized through an exhaustive grid search.
