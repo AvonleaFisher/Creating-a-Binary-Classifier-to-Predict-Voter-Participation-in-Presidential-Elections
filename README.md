@@ -12,7 +12,7 @@ After exploring, cleaning, and numerically encoding the data, several binary cla
 
 ## Results
 The random forest model had the best recall score and overall performance:
-
+![ROC](https://github.com/AvonleaFisher/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/ROC.png)
 
 <b>Recall:</b> .73
 <br>
