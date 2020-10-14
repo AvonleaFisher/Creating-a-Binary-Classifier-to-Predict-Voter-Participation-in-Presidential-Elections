@@ -12,17 +12,10 @@ After exploring, cleaning, and numerically encoding the data, several binary cla
 
 ## Results
 The random forest model had the best recall score and overall performance:
+
 ![ROC](https://github.com/AvonleaFisher/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/ROC.png)
 
-<b>Recall:</b> .73
-<br>
-<b>Precision:</b> .78
-<br>
-<b>F1:</b> .75
-<br>
-<b>AUC:</b> .84
-<br>
-<b>Accuracy:</b> .89
+![Confusion Matrix](https://github.com/AvonleaFisher/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/CM.png)
 
 ## Recommendations 
 Respondents' participation in the 2012 election was the strongest predictor of voting in the 2016 election, which suggests that past voting behavior may predict an eligible voter's participation in future elections. Political identity was also a strong predictor: respondents who think of themselves as extremely conservative or extremely liberal were more likely to have voted in 2016 than political moderates. Voter turnout rates also appeared to be positively linearly related to age.
