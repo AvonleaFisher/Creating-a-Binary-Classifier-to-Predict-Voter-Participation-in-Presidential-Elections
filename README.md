@@ -1,8 +1,8 @@
 # Creating a Binary Classifier to Predict Voter Participation in Presidential Elections
 
-<b>Author:<b> Avonlea Fisher
+<b>Author:</b> Avonlea Fisher
   
-<b>Blog Post:<b> https://medium.com/analytics-vidhya/creating-a-binary-classifier-to-predict-eligible-voter-participation-in-presidential-elections-9e882fc5da51
+<b>Blog Post:</b> https://medium.com/analytics-vidhya/creating-a-binary-classifier-to-predict-eligible-voter-participation-in-presidential-elections-9e882fc5da51
   
 ## Introduction 
 The aim of this project is to build a binary classification model for predicting whether an eligible voter did not vote in the 2016 presidential election, using  a selection of data from the 2018 General Social Survey. The General Social Survey collects demographic, behavioral, and attitudinal data on a large and diverse sample of US respondents. The dataset used in this project was created by selecting variables from the survey using the GSS Data Explorer and can be accessed [here](https://gssdataexplorer.norc.org/projects/86577/extracts). Note: you must create a GSS Data Explorer account to download the data.
