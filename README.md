@@ -28,3 +28,8 @@ With these observations in mind, organizations seeking to increase voter turnout
 
 ## Limitations and Next Steps
 Many features were transformed and or excluded from the original dataset to foster a simpler and more legible encoding process. Future analysis should attempt to find or collect more complete data with similar variables. Additionally, models can be further optimized through an exhaustive grid search.
+
+## For further information
+For any additional questions, please contact me at [fisheravonlea@gmail.com](mailto:fisheravonlea@gmail.com) or via my 
+[LinkedIn profile](https://www.linkedin.com/in/avonlea-fisher/).
+
